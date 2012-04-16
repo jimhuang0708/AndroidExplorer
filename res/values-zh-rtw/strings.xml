@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">你好世界</string>
+    <string name="app_name">安桌依克失不撈爾</string>
+    <string name="op_delete">刪除</string>
+    <string name="op_open">開啟</string>
+    <string name="op_rotate_auto">自動</string>
+    <string name="op_rotate_landscape">橫躺</string>
+    <string name="op_rotate_portrait">直立</string>
+    <string name="msg_confirm">確認</string>
+    <string name="msg_confirm_verbose">你確定要刪除嗎?</string>
+    <string name="msg_confirm_yes">確定</string>
+    <string name="msg_confirm_cancel">放棄</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidExplorer!</string>
+    <string name="app_name">AndroidExplorer</string>
+    <string name="op_delete">Delete</string>
+    <string name="op_open">Open</string>
+    <string name="op_rotate_auto">Auto</string>
+    <string name="op_rotate_landscape">Landscape</string>
+    <string name="op_rotate_portrait">Portrait</string>
+    <string name="msg_confirm">Confirm</string>
+    <string name="msg_confirm_verbose">Are you sure to delete this file?</string>
+    <string name="msg_confirm_yes">Yes</string>
+    <string name="msg_confirm_cancel">Cancel</string>
+</resources>
